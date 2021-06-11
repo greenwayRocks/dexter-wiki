@@ -31,3 +31,12 @@ What am I learning?
     * Account Security
     * File System Security
     * Network Security
+
+###- **_FullStack React Book_**
+
+    * Voting App
+
+###- **_Vim and VimWIKI_**
+    
+    * Practical Vim, 2nd edition
+    * Modern Vim
