@@ -38,7 +38,11 @@ What am I learning?
 
     * Voting App
     * Timers App
-    * Redux Store Management and Counters App
+    * Redux Store Management and Counters App (DONE!!)
+    * Redux Chat APP (working on it?) .....
+      - Simple Chat App (x)
+      - Intermediate Chat App
+      - Advanced Chat App
 
 ###- **_Vim and VimWIKI_**
 
@@ -57,3 +61,4 @@ What am I learning?
     * GnuPG
     * Incremental Backups
     * Intrusion Detection System using ML
+    * Beautiful Anime Wallpaper in Konsole and it's all beautiful forEver!
